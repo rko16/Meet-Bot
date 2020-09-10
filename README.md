@@ -1,2 +1,4 @@
 # Meet-Bot
-A bot thall do you job of attneding your goolge meet classes.
+A bot thall do your job of attneding your goolge meet classes.
+    ab bol na
+
